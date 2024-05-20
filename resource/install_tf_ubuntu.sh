@@ -20,6 +20,9 @@ pip install opencv-python
 pip3 install matplotlib
 pip3 install imageio
 
+pip install ipywidgets
+
+
 python
 >>> import tensorflow as tf
 >>> print(tf.__version__)
